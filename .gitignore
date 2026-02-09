@@ -1,0 +1,26 @@
+# Environment variables (contains sensitive data)
+.env
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Executable files (compiled keylogger)
+*.exe
+*.exe_manifest
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+
+# PyInstaller build files
+build/
+dist/
+*.spec
